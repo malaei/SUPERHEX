@@ -1,16 +1,19 @@
-[tool.poetry]
-name = "SUPERHEX"
-version = "1.0.0"
-description = "Supercell Optimization for Heisenberg Exchange Calculations"
-authors = ["Mojtaba Alaei"]
-license = "GNU General Public License v3.0"
-readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.12"
-
-[tool.poetry.dev-dependencies]
-
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "superhex"
+version = "1.0.0"
+description = "Supercell structure optimization for Heisenberg exchange interaction calculations"
+authors = ["Mojtaba Alaei <malaei@iut.ac.ir>"]
+packages = [
+    { include = "superhex", from = "src" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "^1.21"  # Add other dependencies as needed
+
+[tool.poetry.scripts]
+superhex = "superhex.superhex:main"  # Entry point if applicable

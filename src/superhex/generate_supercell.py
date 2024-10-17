@@ -9,8 +9,8 @@ from pymatgen.transformations.advanced_transformations import  SupercellTransfor
 
 from ase.geometry import is_minkowski_reduced, minkowski_reduce
 
-import hnf_lib 
-from compare_structures import is_equiv_lattice  
+from superhex.hnf_lib import get_all_2D_HNFs, get_all_HNFs
+from superhex.compare_structures import is_equiv_lattice  
 
 
 def rotation_matrix(structure, LatDim):
@@ -52,9 +52,9 @@ def generate_structures(structure, volumes, LatDim, write_str=False, verbosity='
     
     for vol in volumes:
         if LatDim==2:
-            hnf = hnf_lib.get_all_2D_HNFs(vol)
+            hnf = get_all_2D_HNFs(vol)
         else:
-            hnf = hnf_lib.get_all_HNFs(vol)
+            hnf = get_all_HNFs(vol)
  
         Nhnf,_,_= hnf.shape
 

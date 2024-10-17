@@ -1,0 +1,3159 @@
+-----volume: 1 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0   1 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0   1
+-----volume: 2 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0   2 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0   2
+-----volume: 2 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2   0
+ -1  -1  -1
+-----volume: 2 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -1  -2   0
+-----volume: 3 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0   3 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0   3
+-----volume: 3 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1   3 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -1  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -1  -2   1
+-----volume: 3 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1   3 
+Minkowski reduce matrix
+ -1  -2   1
+  2   1  -1
+ -1  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  2   1   0
+ -1  -1   1
+-----volume: 3 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -2  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -2  -3   0
+-----volume: 3 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -2   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -2  -1   0
+-----volume: 4 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0   4 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0   4
+-----volume: 4 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1   4 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -2  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -2  -3   1
+-----volume: 4 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   2   4 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2   0
+ -1  -1  -2
+-----volume: 4 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1   4 
+Minkowski reduce matrix
+  1  -1   0
+  0   1   0
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1  -1   0
+  0   1   1
+ -2  -2   0
+-----volume: 4 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   0   2 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   0
+  0   0   2
+-----volume: 4 Structure number:5-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   1   2 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -1  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   1
+ -1  -2   1
+-----volume: 4 Structure number:6-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  1   0  -1
+ -2  -2   0
+-----volume: 4 Structure number:7-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   1   2 
+Minkowski reduce matrix
+ -1  -1   1
+  1   0   0
+ -1   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  1   0   1
+ -1   0   1
+-----volume: 4 Structure number:8-----
+HNF matrix:
+  1   0   0 
+  0   4   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -2  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -2  -4   0
+-----volume: 4 Structure number:9-----
+HNF matrix:
+  1   0   0 
+  2   4   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -2   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -2   0   0
+-----volume: 4 Structure number:10-----
+HNF matrix:
+  2   0   0 
+  0   2   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   1   0
+  0   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  2   2   0
+  0   2   0
+-----volume: 5 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0   5 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0   5
+-----volume: 5 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1   5 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -2  -4   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -2  -4   1
+-----volume: 5 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   2   5 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -2  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2  -1
+ -2  -3  -1
+-----volume: 5 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1   5 
+Minkowski reduce matrix
+  1  -1   0
+  0   1   0
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1  -1   0
+  0   1   1
+ -2  -2   1
+-----volume: 5 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   2   5 
+Minkowski reduce matrix
+ -1  -2   1
+  1   0   0
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  1   0   1
+ -2  -1   1
+-----volume: 5 Structure number:5-----
+HNF matrix:
+  1   0   0 
+  0   5   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -3  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -3  -5   0
+-----volume: 5 Structure number:6-----
+HNF matrix:
+  1   0   0 
+  2   5   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -3   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -3  -1   0
+-----volume: 6 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0   6 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0   6
+-----volume: 6 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1   6 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -3  -5   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -3  -5   1
+-----volume: 6 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   2   6 
+Minkowski reduce matrix
+ -1   0   0
+  2   3  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   3   0
+ -1  -1  -2
+-----volume: 6 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   3   6 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2   0
+ -1  -1  -3
+-----volume: 6 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1   6 
+Minkowski reduce matrix
+  1  -1   0
+  0   1   0
+ -3  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1  -1   0
+  0   1   1
+ -3  -3   0
+-----volume: 6 Structure number:5-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   2   6 
+Minkowski reduce matrix
+ -1   0   0
+  2   2  -1
+  1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   2   0
+  1  -1  -1
+-----volume: 6 Structure number:6-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   2   6 
+Minkowski reduce matrix
+ -1  -2   1
+  2   1  -1
+ -1  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  2   1   0
+ -1  -1   2
+-----volume: 6 Structure number:7-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   0   3 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   0
+  0   0   3
+-----volume: 6 Structure number:8-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   1   3 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -1  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   1
+ -1  -2   2
+-----volume: 6 Structure number:9-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   0   3 
+Minkowski reduce matrix
+  1   0   0
+  0   1   0
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+  0   2   0
+ -2  -2   1
+-----volume: 6 Structure number:10-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   2   3 
+Minkowski reduce matrix
+ -1  -1   1
+  1   0   0
+ -2   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  1   0   1
+ -2   0   1
+-----volume: 6 Structure number:11-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  0   0   2 
+Minkowski reduce matrix
+  1   0   0
+  2   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  2   3   0
+  0   0   2
+-----volume: 6 Structure number:12-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  0   1   2 
+Minkowski reduce matrix
+  1   0   0
+  2   1   0
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  2   3   1
+ -2  -3   1
+-----volume: 6 Structure number:13-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  1   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  1   0  -1
+ -2  -3   0
+-----volume: 6 Structure number:14-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  0   0   2 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2  -1   0
+  0   0   2
+-----volume: 6 Structure number:15-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  0   1   2 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2  -1   1
+  2   1   1
+-----volume: 6 Structure number:16-----
+HNF matrix:
+  1   0   0 
+  0   6   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -3  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -3  -6   0
+-----volume: 6 Structure number:17-----
+HNF matrix:
+  1   0   0 
+  2   6   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -3   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -3   0   0
+-----volume: 6 Structure number:18-----
+HNF matrix:
+  1   0   0 
+  3   6   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0  -1
+  2  -1   0
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0  -1
+  2   0   0
+ -1  -3   0
+-----volume: 7 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0   7 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0   7
+-----volume: 7 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1   7 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -3  -5   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -3  -5   2
+-----volume: 7 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   2   7 
+Minkowski reduce matrix
+ -1   0   0
+  2   3  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   3  -1
+ -1  -1  -2
+-----volume: 7 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   3   7 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -2  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2  -1
+ -2  -3  -2
+-----volume: 7 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1   7 
+Minkowski reduce matrix
+  1  -1   0
+  0   1   0
+ -3  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1  -1   0
+  0   1   1
+ -3  -3   1
+-----volume: 7 Structure number:5-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   2   7 
+Minkowski reduce matrix
+  1   0   0
+ -1   1   0
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+ -1   1   1
+ -2  -2   1
+-----volume: 7 Structure number:6-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   3   7 
+Minkowski reduce matrix
+ -1  -2   1
+  1   0   0
+ -3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  1   0   1
+ -3  -1   1
+-----volume: 7 Structure number:7-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   2   7 
+Minkowski reduce matrix
+ -1   1   0
+  1   2  -1
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   0
+  1   2  -1
+ -2  -2  -1
+-----volume: 7 Structure number:8-----
+HNF matrix:
+  1   0   0 
+  0   7   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -4  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -4  -7   0
+-----volume: 7 Structure number:9-----
+HNF matrix:
+  1   0   0 
+  2   7   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -4   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -4  -1   0
+-----volume: 7 Structure number:10-----
+HNF matrix:
+  1   0   0 
+  3   7   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0  -1
+  3  -1   0
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0  -1
+  3   2   0
+ -1  -3   0
+-----volume: 8 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0   8 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0   8
+-----volume: 8 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1   8 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -3  -6   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -3  -6   2
+-----volume: 8 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   2   8 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -2  -4   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   2
+ -2  -4   0
+-----volume: 8 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   3   8 
+Minkowski reduce matrix
+ -1   0   0
+  2   3  -1
+  1   2  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   3   1
+  1   2  -2
+-----volume: 8 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   4   8 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2   0
+ -1  -1  -4
+-----volume: 8 Structure number:5-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1   8 
+Minkowski reduce matrix
+  1  -1   0
+  0   1   0
+ -3  -4   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1  -1   0
+  0   1   1
+ -3  -4   1
+-----volume: 8 Structure number:6-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   2   8 
+Minkowski reduce matrix
+  1   0   0
+ -1   1   0
+ -2  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+ -1   1   1
+ -2  -3   0
+-----volume: 8 Structure number:7-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   3   8 
+Minkowski reduce matrix
+ -1   0   0
+  2   2  -1
+  2  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   2   0
+  2  -1  -1
+-----volume: 8 Structure number:8-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   2   8 
+Minkowski reduce matrix
+ -1   1   0
+  2   2  -1
+  0  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   0
+  2   2   0
+  0  -1  -2
+-----volume: 8 Structure number:9-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   3   8 
+Minkowski reduce matrix
+  1   2  -1
+  2   1  -1
+ -3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+  2   1  -1
+ -3  -1  -1
+-----volume: 8 Structure number:10-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   0   4 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   0
+  0   0   4
+-----volume: 8 Structure number:11-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   1   4 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   1
+ -2  -4   2
+-----volume: 8 Structure number:12-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   2   4 
+Minkowski reduce matrix
+ -1   0   0
+  2   2  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   4   0
+ -1  -2  -2
+-----volume: 8 Structure number:13-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   0   4 
+Minkowski reduce matrix
+  1   0   0
+  0   1   0
+ -3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+  0   2   0
+ -3  -2   1
+-----volume: 8 Structure number:14-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   1   4 
+Minkowski reduce matrix
+ -1   0   0
+  2   1  -1
+  0  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   2  -1
+  0  -2  -1
+-----volume: 8 Structure number:15-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   3   4 
+Minkowski reduce matrix
+ -1  -1   1
+  1   0   0
+ -3   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  1   0   1
+ -3   0   1
+-----volume: 8 Structure number:16-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   0   4 
+Minkowski reduce matrix
+  2   1  -1
+  0  -1   0
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   2   0
+  0  -2   0
+ -1   0  -2
+-----volume: 8 Structure number:17-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   1   4 
+Minkowski reduce matrix
+ -2   0   1
+ -1  -1   1
+  2   1  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -2   0   0
+ -1  -2   1
+  2   2   1
+-----volume: 8 Structure number:18-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   2   4 
+Minkowski reduce matrix
+  1   1  -1
+  2   0  -1
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+  2   0   0
+ -1   0  -2
+-----volume: 8 Structure number:19-----
+HNF matrix:
+  1   0   0 
+  0   4   0 
+  0   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -2  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -2
+ -2  -4   0
+-----volume: 8 Structure number:20-----
+HNF matrix:
+  1   0   0 
+  0   4   0 
+  0   1   2 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -2  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -2
+ -2  -4  -1
+-----volume: 8 Structure number:21-----
+HNF matrix:
+  1   0   0 
+  0   4   0 
+  1   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  1   0  -1
+ -2  -4   0
+-----volume: 8 Structure number:22-----
+HNF matrix:
+  1   0   0 
+  0   4   0 
+  1   1   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+ -3  -1   2
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  1   0  -1
+ -3  -4   0
+-----volume: 8 Structure number:23-----
+HNF matrix:
+  1   0   0 
+  2   4   0 
+  0   0   2 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2   0   0
+  0   0   2
+-----volume: 8 Structure number:24-----
+HNF matrix:
+  1   0   0 
+  2   4   0 
+  0   1   2 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2   0   1
+  2   0   1
+-----volume: 8 Structure number:25-----
+HNF matrix:
+  1   0   0 
+  2   4   0 
+  1   0   2 
+Minkowski reduce matrix
+  2  -1  -1
+ -1   0   0
+  1   0  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   0   0
+ -1  -2  -1
+  1   2  -1
+-----volume: 8 Structure number:26-----
+HNF matrix:
+  1   0   0 
+  2   4   0 
+  1   1   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+  2  -1  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2  -1
+  1   2  -1
+  2   0  -1
+-----volume: 8 Structure number:27-----
+HNF matrix:
+  1   0   0 
+  0   8   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -4  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -4  -8   0
+-----volume: 8 Structure number:28-----
+HNF matrix:
+  1   0   0 
+  2   8   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -4   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -4   0   0
+-----volume: 8 Structure number:29-----
+HNF matrix:
+  1   0   0 
+  3   8   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -3   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   3   0
+ -3  -1   0
+-----volume: 8 Structure number:30-----
+HNF matrix:
+  1   0   0 
+  4   8   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0  -1
+  2  -1   0
+ -3   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0  -1
+  2   0   0
+ -3  -4   0
+-----volume: 8 Structure number:31-----
+HNF matrix:
+  2   0   0 
+  0   2   0 
+  0   0   2 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   2   0
+  0   2   0
+  0   0   2
+-----volume: 8 Structure number:32-----
+HNF matrix:
+  2   0   0 
+  0   2   0 
+  0   1   2 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -1  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   0   0
+  2   2   1
+ -2  -2   1
+-----volume: 8 Structure number:33-----
+HNF matrix:
+  2   0   0 
+  0   4   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+  1   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  2   0   0
+  2   4   0
+-----volume: 9 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0   9 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0   9
+-----volume: 9 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1   9 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -4  -7   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -4  -7   2
+-----volume: 9 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   2   9 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -2  -4   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   2
+ -2  -4   1
+-----volume: 9 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   3   9 
+Minkowski reduce matrix
+ -1   0   0
+  2   3  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   3   0
+ -1  -1  -3
+-----volume: 9 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   4   9 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -3  -5   2
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2  -1
+ -3  -5  -2
+-----volume: 9 Structure number:5-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1   9 
+Minkowski reduce matrix
+  1  -1   0
+  0   1   0
+ -4  -4   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1  -1   0
+  0   1   1
+ -4  -4   1
+-----volume: 9 Structure number:6-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   2   9 
+Minkowski reduce matrix
+  1   0   0
+ -1   1   0
+ -3  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+ -1   1   1
+ -3  -3   0
+-----volume: 9 Structure number:7-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   3   9 
+Minkowski reduce matrix
+ -1   0   0
+  2   2  -1
+  0  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   2  -1
+  0  -3   0
+-----volume: 9 Structure number:8-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   4   9 
+Minkowski reduce matrix
+ -1  -2   1
+  1   0   0
+ -4  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  1   0   1
+ -4  -1   1
+-----volume: 9 Structure number:9-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   2   9 
+Minkowski reduce matrix
+ -1   1   0
+  2   2  -1
+ -2  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   0
+  2   2  -1
+ -2  -3  -1
+-----volume: 9 Structure number:10-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   3   9 
+Minkowski reduce matrix
+  1   2  -1
+  1  -1   0
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2  -1
+  1  -1  -1
+ -2  -2  -1
+-----volume: 9 Structure number:11-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  3   3   9 
+Minkowski reduce matrix
+ -1  -2   1
+  2   1  -1
+ -1  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  2   1   0
+ -1  -1   3
+-----volume: 9 Structure number:12-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  0   0   3 
+Minkowski reduce matrix
+  1   0   0
+  2   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  2   3   0
+  0   0   3
+-----volume: 9 Structure number:13-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  0   1   3 
+Minkowski reduce matrix
+  1   0   0
+  2   1   0
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  2   3   1
+ -2  -3   2
+-----volume: 9 Structure number:14-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  1   0   3 
+Minkowski reduce matrix
+ -1   0   0
+  2   0  -1
+ -3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   0  -1
+ -3  -3   0
+-----volume: 9 Structure number:15-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  1   1   3 
+Minkowski reduce matrix
+ -1   0   0
+  2   0  -1
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   0  -1
+ -2  -3   0
+-----volume: 9 Structure number:16-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  0   0   3 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2  -1   0
+  0   0   3
+-----volume: 9 Structure number:17-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  0   1   3 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  3  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2  -1   1
+  3   0   1
+-----volume: 9 Structure number:18-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  1   0   3 
+Minkowski reduce matrix
+ -1   0   0
+  2  -1  -1
+  1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2  -1
+  2   1  -1
+  1  -1   1
+-----volume: 9 Structure number:19-----
+HNF matrix:
+  1   0   0 
+  0   9   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -5  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -5  -9   0
+-----volume: 9 Structure number:20-----
+HNF matrix:
+  1   0   0 
+  2   9   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -5   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -5  -1   0
+-----volume: 9 Structure number:21-----
+HNF matrix:
+  1   0   0 
+  3   9   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -3   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   3   0
+ -3   0   0
+-----volume: 9 Structure number:22-----
+HNF matrix:
+  3   0   0 
+  0   3   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   1   0
+  0   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  3   3   0
+  0   3   0
+-----volume: 10 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0  10 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0  10
+-----volume: 10 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1  10 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -4  -8   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -4  -8   2
+-----volume: 10 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   2  10 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -3  -5   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   2
+ -3  -5   0
+-----volume: 10 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   3  10 
+Minkowski reduce matrix
+ -1   0   0
+  2   3  -1
+ -2  -4   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   3  -1
+ -2  -4  -2
+-----volume: 10 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   4  10 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -2  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2  -2
+ -2  -3  -2
+-----volume: 10 Structure number:5-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   5  10 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2   0
+ -1  -1  -5
+-----volume: 10 Structure number:6-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1  10 
+Minkowski reduce matrix
+  1  -1   0
+  0   1   0
+ -4  -5   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1  -1   0
+  0   1   1
+ -4  -5   1
+-----volume: 10 Structure number:7-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   2  10 
+Minkowski reduce matrix
+  1   0   0
+ -1   1   0
+ -3  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+ -1   1   1
+ -3  -3   1
+-----volume: 10 Structure number:8-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   3  10 
+Minkowski reduce matrix
+ -1   0   0
+  1   3  -1
+  3   2  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  1   3   0
+  3   2  -1
+-----volume: 10 Structure number:9-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   4  10 
+Minkowski reduce matrix
+ -1   0   0
+  2   2  -1
+  1  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   2   0
+  1  -3  -1
+-----volume: 10 Structure number:10-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   2  10 
+Minkowski reduce matrix
+ -1   1   0
+  2   3  -1
+  0  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   0
+  2   3   0
+  0  -1  -2
+-----volume: 10 Structure number:11-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   3  10 
+Minkowski reduce matrix
+  2   2  -1
+  1  -1   0
+ -2   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   2   0
+  1  -1  -1
+ -2   1  -1
+-----volume: 10 Structure number:12-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   4  10 
+Minkowski reduce matrix
+  1   2  -1
+  3   1  -1
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+  3   1   0
+ -1   0  -2
+-----volume: 10 Structure number:13-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  3   3  10 
+Minkowski reduce matrix
+ -1   1   0
+  1   2  -1
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   0
+  1   2  -1
+ -2  -2  -2
+-----volume: 10 Structure number:14-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   0   5 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   0
+  0   0   5
+-----volume: 10 Structure number:15-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   1   5 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   1
+ -2  -4   3
+-----volume: 10 Structure number:16-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   2   5 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   2
+ -2  -4   1
+-----volume: 10 Structure number:17-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   0   5 
+Minkowski reduce matrix
+  1   0   0
+  0   1   0
+ -4  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+  0   2   0
+ -4  -2   1
+-----volume: 10 Structure number:18-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   1   5 
+Minkowski reduce matrix
+  1   0   0
+  0   1   0
+ -3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+  0   2   1
+ -3  -2   1
+-----volume: 10 Structure number:19-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   4   5 
+Minkowski reduce matrix
+ -1  -1   1
+  1   0   0
+ -4   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  1   0   1
+ -4   0   1
+-----volume: 10 Structure number:20-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   0   5 
+Minkowski reduce matrix
+  0   1   0
+ -2  -1   1
+  3   1  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   2   0
+ -2  -2   1
+  3   2   1
+-----volume: 10 Structure number:21-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   2   5 
+Minkowski reduce matrix
+ -1  -1   1
+  2   1  -1
+ -2   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   1
+  2   2   1
+ -2   0   1
+-----volume: 10 Structure number:22-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   3   5 
+Minkowski reduce matrix
+  1   1  -1
+  2   0  -1
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+  2   0  -1
+ -1   0  -2
+-----volume: 10 Structure number:23-----
+HNF matrix:
+  1   0   0 
+  0   5   0 
+  0   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -3  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -2
+ -3  -5   0
+-----volume: 10 Structure number:24-----
+HNF matrix:
+  1   0   0 
+  0   5   0 
+  0   1   2 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -3  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -2
+ -3  -5  -1
+-----volume: 10 Structure number:25-----
+HNF matrix:
+  1   0   0 
+  0   5   0 
+  1   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  1   0  -1
+ -2  -5   0
+-----volume: 10 Structure number:26-----
+HNF matrix:
+  1   0   0 
+  2   5   0 
+  0   0   2 
+Minkowski reduce matrix
+  1   0   0
+ -3   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -3  -1   0
+  0   0   2
+-----volume: 10 Structure number:27-----
+HNF matrix:
+  1   0   0 
+  2   5   0 
+  0   1   2 
+Minkowski reduce matrix
+  1   0   0
+ -3   1   0
+  3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -3  -1   1
+  3   1   1
+-----volume: 10 Structure number:28-----
+HNF matrix:
+  1   0   0 
+  2   5   0 
+  1   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+  2  -1  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2  -1
+  1   2  -1
+  2  -1   0
+-----volume: 10 Structure number:29-----
+HNF matrix:
+  1   0   0 
+  0  10   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -5  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -5 -10   0
+-----volume: 10 Structure number:30-----
+HNF matrix:
+  1   0   0 
+  2  10   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -5   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -5   0   0
+-----volume: 10 Structure number:31-----
+HNF matrix:
+  1   0   0 
+  3  10   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -4   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   3   0
+ -4  -2   0
+-----volume: 10 Structure number:32-----
+HNF matrix:
+  1   0   0 
+  5  10   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0  -1
+  2  -1   0
+ -3   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0  -1
+  2   0   0
+ -3  -5   0
+-----volume: 11 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0  11 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0  11
+-----volume: 11 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1  11 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -5  -9   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -5  -9   2
+-----volume: 11 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   2  11 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -3  -5   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   2
+ -3  -5   1
+-----volume: 11 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   3  11 
+Minkowski reduce matrix
+ -1   0   0
+  2   4  -1
+  2   3  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   4   1
+  2   3  -2
+-----volume: 11 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   4  11 
+Minkowski reduce matrix
+ -1   0   0
+  2   3  -1
+  1   2  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   3   1
+  1   2  -3
+-----volume: 11 Structure number:5-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   5  11 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -3  -5   2
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2  -1
+ -3  -5  -3
+-----volume: 11 Structure number:6-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1  11 
+Minkowski reduce matrix
+  1  -1   0
+  0   1   0
+ -5  -5   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1  -1   0
+  0   1   1
+ -5  -5   1
+-----volume: 11 Structure number:7-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   2  11 
+Minkowski reduce matrix
+  1   0   0
+ -1   1   0
+ -3  -4   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+ -1   1   1
+ -3  -4   0
+-----volume: 11 Structure number:8-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   3  11 
+Minkowski reduce matrix
+ -1   0   0
+  2   3  -1
+  2  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   3   0
+  2  -1  -1
+-----volume: 11 Structure number:9-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   4  11 
+Minkowski reduce matrix
+ -1   0   0
+  2   2  -1
+  0  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   2  -1
+  0  -3  -1
+-----volume: 11 Structure number:10-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   5  11 
+Minkowski reduce matrix
+ -1  -2   1
+  1   0   0
+ -4  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  1   0   1
+ -4  -1   2
+-----volume: 11 Structure number:11-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   2  11 
+Minkowski reduce matrix
+ -1   1   0
+  2   3  -1
+  0  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   0
+  2   3  -1
+  0  -1  -2
+-----volume: 11 Structure number:12-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   3  11 
+Minkowski reduce matrix
+ -1   1   0
+ -2  -2   1
+  3   2  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   1
+ -2  -2   1
+  3   2   1
+-----volume: 11 Structure number:13-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   4  11 
+Minkowski reduce matrix
+ -1  -2   1
+  2   2  -1
+ -2   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   1
+  2   2   1
+ -2   1   0
+-----volume: 11 Structure number:14-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  3   3  11 
+Minkowski reduce matrix
+ -1   1   0
+  2   2  -1
+  1   2  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   0
+  2   2   1
+  1   2  -2
+-----volume: 11 Structure number:15-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  3   4  11 
+Minkowski reduce matrix
+  1   2  -1
+  2   1  -1
+ -3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+  2   1  -1
+ -3  -1  -2
+-----volume: 11 Structure number:16-----
+HNF matrix:
+  1   0   0 
+  0  11   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -6  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -6 -11   0
+-----volume: 11 Structure number:17-----
+HNF matrix:
+  1   0   0 
+  2  11   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -6   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -6  -1   0
+-----volume: 11 Structure number:18-----
+HNF matrix:
+  1   0   0 
+  3  11   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -4   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   3   0
+ -4  -1   0
+-----volume: 12 Structure number:0-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   0  12 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   1   0
+  0   1   0
+  0   0  12
+-----volume: 12 Structure number:1-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   1  12 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -5  -9   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   1
+ -5  -9   3
+-----volume: 12 Structure number:2-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   2  12 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -3  -6   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   1   2
+ -3  -6   0
+-----volume: 12 Structure number:3-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   3  12 
+Minkowski reduce matrix
+ -1   0   0
+  2   4  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   4   0
+ -1  -1  -3
+-----volume: 12 Structure number:4-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   4  12 
+Minkowski reduce matrix
+ -1   0   0
+  2   3  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   3   0
+ -1  -1  -4
+-----volume: 12 Structure number:5-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   5  12 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -3  -5   2
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2  -2
+ -3  -5  -1
+-----volume: 12 Structure number:6-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  0   6  12 
+Minkowski reduce matrix
+ -1   0   0
+  1   2  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  1   2   0
+ -1  -1  -6
+-----volume: 12 Structure number:7-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   1  12 
+Minkowski reduce matrix
+  1  -1   0
+  0   1   0
+ -5  -6   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1  -1   0
+  0   1   1
+ -5  -6   1
+-----volume: 12 Structure number:8-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   2  12 
+Minkowski reduce matrix
+  1   0   0
+ -1   1   0
+ -3  -4   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+ -1   1   1
+ -3  -4   1
+-----volume: 12 Structure number:9-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   3  12 
+Minkowski reduce matrix
+ -1   0   0
+  3   3  -1
+  2  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  3   3   0
+  2  -1  -1
+-----volume: 12 Structure number:10-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   4  12 
+Minkowski reduce matrix
+ -1   0   0
+  0   3  -1
+  3   2  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  0   3   0
+  3   2  -1
+-----volume: 12 Structure number:11-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  1   5  12 
+Minkowski reduce matrix
+ -1   0   0
+  2   2  -1
+  2  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   2   0
+  2  -3  -1
+-----volume: 12 Structure number:12-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   2  12 
+Minkowski reduce matrix
+ -1   1   0
+  3   3  -1
+  0  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   0
+  3   3   0
+  0  -1  -2
+-----volume: 12 Structure number:13-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   3  12 
+Minkowski reduce matrix
+ -1   1   0
+ -3  -2   1
+ -1  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   1
+ -3  -2   0
+ -1  -3   1
+-----volume: 12 Structure number:14-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   4  12 
+Minkowski reduce matrix
+  2   2  -1
+  2  -1   0
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   2   0
+  2  -1   0
+ -1   0  -2
+-----volume: 12 Structure number:15-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  2   5  12 
+Minkowski reduce matrix
+  1   2  -1
+  3   1  -1
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+  3   1  -1
+ -1   0  -2
+-----volume: 12 Structure number:16-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  3   3  12 
+Minkowski reduce matrix
+ -1   1   0
+  2   2  -1
+  0  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   1   0
+  2   2   0
+  0  -1  -3
+-----volume: 12 Structure number:17-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  3   4  12 
+Minkowski reduce matrix
+  1   2  -1
+  1  -1   0
+ -3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2  -1
+  1  -1  -1
+ -3  -1  -1
+-----volume: 12 Structure number:18-----
+HNF matrix:
+  1   0   0 
+  0   1   0 
+  4   4  12 
+Minkowski reduce matrix
+ -1  -2   1
+  2   1  -1
+ -1  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  2   1   0
+ -1  -1   4
+-----volume: 12 Structure number:19-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   0   6 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   0
+  0   0   6
+-----volume: 12 Structure number:20-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   1   6 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -3  -3   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   1
+ -3  -6   3
+-----volume: 12 Structure number:21-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   2   6 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -2  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  1   2   2
+ -2  -4   2
+-----volume: 12 Structure number:22-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  0   3   6 
+Minkowski reduce matrix
+ -1   0   0
+  2   2  -1
+ -1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  2   4   0
+ -1  -2  -3
+-----volume: 12 Structure number:23-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   0   6 
+Minkowski reduce matrix
+  1   0   0
+  0   1   0
+ -5  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+  0   2   0
+ -5  -2   1
+-----volume: 12 Structure number:24-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   1   6 
+Minkowski reduce matrix
+  1   0   0
+  0   1   0
+ -4  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+  0   2   1
+ -4  -2   1
+-----volume: 12 Structure number:25-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   2   6 
+Minkowski reduce matrix
+ -1   0   0
+  3   1  -1
+  1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  3   2  -1
+  1  -2  -1
+-----volume: 12 Structure number:26-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  1   5   6 
+Minkowski reduce matrix
+ -1  -1   1
+  1   0   0
+ -4   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  1   0   1
+ -4   0   2
+-----volume: 12 Structure number:27-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   0   6 
+Minkowski reduce matrix
+  0   1   0
+ -3  -1   1
+  1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   2   0
+ -3  -2   0
+  1   0   2
+-----volume: 12 Structure number:28-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   1   6 
+Minkowski reduce matrix
+  2   1  -1
+  0  -1   0
+ -3   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   2  -1
+  0  -2  -1
+ -3   0   0
+-----volume: 12 Structure number:29-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   3   6 
+Minkowski reduce matrix
+ -1  -1   1
+  2   1  -1
+ -3   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   1
+  2   2   1
+ -3   0   0
+-----volume: 12 Structure number:30-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  2   4   6 
+Minkowski reduce matrix
+  1   1  -1
+  3   0  -1
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+  3   0   0
+ -1   0  -2
+-----volume: 12 Structure number:31-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  3   0   6 
+Minkowski reduce matrix
+  2   1  -1
+  0  -1   0
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   2   0
+  0  -2   0
+ -1   0  -3
+-----volume: 12 Structure number:32-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  3   1   6 
+Minkowski reduce matrix
+  2   0  -1
+ -2  -1   1
+  1   1  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   0   0
+ -2  -2  -1
+  1   2  -2
+-----volume: 12 Structure number:33-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  3   2   6 
+Minkowski reduce matrix
+ -2   0   1
+ -1  -1   1
+  2   1  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -2   0   0
+ -1  -2   1
+  2   2   2
+-----volume: 12 Structure number:34-----
+HNF matrix:
+  1   0   0 
+  0   2   0 
+  3   3   6 
+Minkowski reduce matrix
+  1   1  -1
+  2   0  -1
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+  2   0   0
+ -1   0  -3
+-----volume: 12 Structure number:35-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  0   0   4 
+Minkowski reduce matrix
+  1   0   0
+  2   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  2   3   0
+  0   0   4
+-----volume: 12 Structure number:36-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  0   1   4 
+Minkowski reduce matrix
+  1   0   0
+  2   1   0
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  2   3   1
+ -2  -3   3
+-----volume: 12 Structure number:37-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  0   2   4 
+Minkowski reduce matrix
+  1   0   0
+  2   1   0
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  2   3   2
+ -2  -3   2
+-----volume: 12 Structure number:38-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  1   0   4 
+Minkowski reduce matrix
+  1   0   0
+  0   1   0
+ -3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   1
+  0   3   0
+ -3  -3   1
+-----volume: 12 Structure number:39-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  1   2   4 
+Minkowski reduce matrix
+ -1   0   0
+  2   1  -1
+  3   0  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   3   0
+  3   0  -1
+-----volume: 12 Structure number:40-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  2   0   4 
+Minkowski reduce matrix
+  2   0  -1
+ -2  -1   1
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   0   0
+ -2  -3   0
+ -1   0  -2
+-----volume: 12 Structure number:41-----
+HNF matrix:
+  1   0   0 
+  0   3   0 
+  2   1   4 
+Minkowski reduce matrix
+  2   0  -1
+ -2  -1   1
+  1   1  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   0   0
+ -2  -3  -1
+  1   3  -1
+-----volume: 12 Structure number:42-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  0   0   4 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2  -1   0
+  0   0   4
+-----volume: 12 Structure number:43-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  0   1   4 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  3  -2   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2  -1   1
+  3   0   2
+-----volume: 12 Structure number:44-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  0   2   4 
+Minkowski reduce matrix
+ -1   0   0
+ -3   2  -1
+  2  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+ -3   0   0
+  2   1  -2
+-----volume: 12 Structure number:45-----
+HNF matrix:
+  1   0   0 
+  2   3   0 
+  1   0   4 
+Minkowski reduce matrix
+  1   0   0
+ -1   1   0
+ -3   1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   1
+ -1   1  -1
+ -3  -3   1
+-----volume: 12 Structure number:46-----
+HNF matrix:
+  1   0   0 
+  0   4   0 
+  0   0   3 
+Minkowski reduce matrix
+  1   0   0
+  2   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  2   4   0
+  0   0   3
+-----volume: 12 Structure number:47-----
+HNF matrix:
+  1   0   0 
+  0   4   0 
+  0   1   3 
+Minkowski reduce matrix
+  1   0   0
+  2   1   0
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   0   0
+  2   4   1
+ -2  -4   2
+-----volume: 12 Structure number:48-----
+HNF matrix:
+  1   0   0 
+  0   4   0 
+  1   0   3 
+Minkowski reduce matrix
+ -1   0   0
+  2   0  -1
+ -3  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   0  -1
+ -3  -4   0
+-----volume: 12 Structure number:49-----
+HNF matrix:
+  1   0   0 
+  0   4   0 
+  1   1   3 
+Minkowski reduce matrix
+ -1   0   0
+  2   0  -1
+ -2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  2   0  -1
+ -2  -4   0
+-----volume: 12 Structure number:50-----
+HNF matrix:
+  1   0   0 
+  2   4   0 
+  0   0   3 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2   0   0
+  0   0   3
+-----volume: 12 Structure number:51-----
+HNF matrix:
+  1   0   0 
+  2   4   0 
+  0   1   3 
+Minkowski reduce matrix
+  1   0   0
+ -2   1   0
+  2  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -2   0   1
+  2   0   2
+-----volume: 12 Structure number:52-----
+HNF matrix:
+  1   0   0 
+  2   4   0 
+  1   0   3 
+Minkowski reduce matrix
+ -1   0   0
+  2  -1  -1
+  1  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2  -1
+  2   0  -1
+  1  -2   1
+-----volume: 12 Structure number:53-----
+HNF matrix:
+  1   0   0 
+  2   4   0 
+  1   2   3 
+Minkowski reduce matrix
+  2  -1   0
+ -1   0   0
+  1   0  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   0   0
+ -1  -2  -1
+  1   2  -2
+-----volume: 12 Structure number:54-----
+HNF matrix:
+  1   0   0 
+  0   6   0 
+  0   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -3  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -2
+ -3  -6   0
+-----volume: 12 Structure number:55-----
+HNF matrix:
+  1   0   0 
+  0   6   0 
+  0   1   2 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -3  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -2
+ -3  -6  -1
+-----volume: 12 Structure number:56-----
+HNF matrix:
+  1   0   0 
+  0   6   0 
+  1   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+ -4  -1   2
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  1   0  -1
+ -4  -6   0
+-----volume: 12 Structure number:57-----
+HNF matrix:
+  1   0   0 
+  0   6   0 
+  1   1   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+ -3  -1   2
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0  -1
+  1   0  -1
+ -3  -6   0
+-----volume: 12 Structure number:58-----
+HNF matrix:
+  1   0   0 
+  2   6   0 
+  0   0   2 
+Minkowski reduce matrix
+  1   0   0
+ -3   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  1   2   0
+ -3   0   0
+  0   0   2
+-----volume: 12 Structure number:59-----
+HNF matrix:
+  1   0   0 
+  2   6   0 
+  0   1   2 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+  3  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2   0
+  0   0  -2
+  3   0  -1
+-----volume: 12 Structure number:60-----
+HNF matrix:
+  1   0   0 
+  2   6   0 
+  1   0   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+  3  -1  -2
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2  -1
+  1   2  -1
+  3   0  -1
+-----volume: 12 Structure number:61-----
+HNF matrix:
+  1   0   0 
+  2   6   0 
+  1   1   2 
+Minkowski reduce matrix
+ -1   0   0
+  1   0  -1
+  3  -1  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1  -2  -1
+  1   2  -1
+  3   0   0
+-----volume: 12 Structure number:62-----
+HNF matrix:
+  1   0   0 
+  3   6   0 
+  0   0   2 
+Minkowski reduce matrix
+  2  -1   0
+ -1   0   0
+  0   0  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   0   0
+ -1  -3   0
+  0   0  -2
+-----volume: 12 Structure number:63-----
+HNF matrix:
+  1   0   0 
+  3   6   0 
+  0   1   2 
+Minkowski reduce matrix
+ -2   1   0
+  2  -1   1
+  1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -2   0   1
+  2   0   1
+  1   3   0
+-----volume: 12 Structure number:64-----
+HNF matrix:
+  1   0   0 
+  3   6   0 
+  1   0   2 
+Minkowski reduce matrix
+  2  -1  -1
+ -1   0   0
+  1   0  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   0   0
+ -1  -3  -1
+  1   3  -1
+-----volume: 12 Structure number:65-----
+HNF matrix:
+  1   0   0 
+  3   6   0 
+  1   1   2 
+Minkowski reduce matrix
+ -2   1   0
+ -2   1   1
+  3  -1  -1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -2   0  -1
+ -2   0   1
+  3   3   0
+-----volume: 12 Structure number:66-----
+HNF matrix:
+  1   0   0 
+  0  12   0 
+  0   0   1 
+Minkowski reduce matrix
+ -1   0   0
+  0   0  -1
+ -6  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+ -1   0   0
+  0   0  -1
+ -6 -12   0
+-----volume: 12 Structure number:67-----
+HNF matrix:
+  1   0   0 
+  2  12   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -6   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   2   0
+ -6   0   0
+-----volume: 12 Structure number:68-----
+HNF matrix:
+  1   0   0 
+  3  12   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -4   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  1   3   0
+ -4   0   0
+-----volume: 12 Structure number:69-----
+HNF matrix:
+  1   0   0 
+  4  12   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0  -1
+  3  -1   0
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0  -1
+  3   0   0
+ -1  -4   0
+-----volume: 12 Structure number:70-----
+HNF matrix:
+  1   0   0 
+  5  12   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0  -1
+  3  -1   0
+  2  -1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0  -1
+  3   3   0
+  2  -2   0
+-----volume: 12 Structure number:71-----
+HNF matrix:
+  1   0   0 
+  6  12   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0  -1
+  2  -1   0
+ -3   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0  -1
+  2   0   0
+ -3  -6   0
+-----volume: 12 Structure number:72-----
+HNF matrix:
+  2   0   0 
+  0   2   0 
+  0   0   3 
+Minkowski reduce matrix
+  1   1   0
+  0   1   0
+  0   0   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   2   0
+  0   2   0
+  0   0   3
+-----volume: 12 Structure number:73-----
+HNF matrix:
+  2   0   0 
+  0   2   0 
+  0   1   3 
+Minkowski reduce matrix
+  1   0   0
+  1   1   0
+ -1  -1   1
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   0   0
+  2   2   1
+ -2  -2   2
+-----volume: 12 Structure number:74-----
+HNF matrix:
+  2   0   0 
+  0   2   0 
+  1   1   3 
+Minkowski reduce matrix
+  1   1  -1
+  0  -1   0
+ -1   0   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  2   2  -1
+  0  -2  -1
+ -2   0  -1
+-----volume: 12 Structure number:75-----
+HNF matrix:
+  2   0   0 
+  0   6   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+  2   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  2   0   0
+  4   6   0
+-----volume: 12 Structure number:76-----
+HNF matrix:
+  2   0   0 
+  4   6   0 
+  0   0   1 
+Minkowski reduce matrix
+  0   0   1
+  1   0   0
+ -2   1   0
+Transfromation matrix (= +/-1*minkowski_reduce_matrix@HNF_matrix:
+  0   0   1
+  2   4   0
+ -4  -2   0

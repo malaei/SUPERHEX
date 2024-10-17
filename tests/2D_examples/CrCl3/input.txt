@@ -1,0 +1,13 @@
+{
+"structure_file": "CrCl3.vasp",
+"LatDim": 2, 
+"range_volume" : true, 
+"volumes" : [1, 16],
+"magnetic_atoms" : ["Cr"],
+"cutoff_radius" : 30.5,
+"n_configs" : 200,
+"all_configs" : false, 
+"verbosity" : "high", 
+"seed"      : 42,
+"num_processes" : 4
+}

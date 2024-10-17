@@ -1,0 +1,13 @@
+{
+"structure_file": "NiI2.vasp",
+"LatDim": 2, 
+"range_volume" : true, 
+"volumes" : [1, 32],
+"magnetic_atoms" : ["Ni"],
+"cutoff_radius" : 29.0,
+"n_configs" : 200,
+"all_configs" : false, 
+"verbosity" : "high", 
+"seed"      : 42,
+"num_processes" : 4
+}

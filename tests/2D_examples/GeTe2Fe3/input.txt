@@ -1,0 +1,13 @@
+{
+"structure_file": "GeTe2Fe3-1.vasp",
+"LatDim": 2, 
+"range_volume" : true, 
+"volumes" : [1, 16],
+"magnetic_atoms" : ["Fe"],
+"cutoff_radius" : 30.0,
+"n_configs" : 100,
+"all_configs" : false, 
+"verbosity" : "high",
+"seed"      : 42,
+"num_processes" : 4
+}

@@ -1,7 +1,6 @@
 import numpy as np
 import sympy as sy
 import pandas as pd
-from generate_supercell import generate_structures
 from pymatgen.core.structure import Structure
 import json
 from types import SimpleNamespace
@@ -12,6 +11,7 @@ from tqdm import tqdm
 from sympy.polys.matrices import DomainMatrix
 
 
+from superhex.generate_supercell import generate_structures
 
 
 #read input file:
@@ -196,7 +196,7 @@ def analysis_structures(vol, seed):
     # Return the captured output
     return output, struct_info
 
-if __name__ == "__main__":
+def main():
     # Create a SeedSequence object
     ss = np.random.SeedSequence(seed)
     seeds = ss.spawn(len(volumes))
@@ -221,7 +221,10 @@ if __name__ == "__main__":
             struct_info_all['independent_configs'].append(struct_info['independent_configs'][i])
             struct_info_all['latt_abc_var'].append(struct_info['latt_abc_var'][i])
 
-struct_info_all_df=pd.DataFrame(struct_info_all)
-df = struct_info_all_df.sort_values(['first_dep_col_ind', 'struct_vol', 'independent_configs', 'latt_abc_var'] , ascending=[False, True, False, True])
-df.to_csv('struct_analysis.csv', index=False)
-print(df.head(20))
+    struct_info_all_df=pd.DataFrame(struct_info_all)
+    df = struct_info_all_df.sort_values(['first_dep_col_ind', 'struct_vol', 'independent_configs', 'latt_abc_var'] , ascending=[False, True, False, True])
+    df.to_csv('struct_analysis.csv', index=False)
+    print(df.head(20))
+
+if __name__ == "__main__":
+    main()
