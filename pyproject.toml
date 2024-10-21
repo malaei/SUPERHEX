@@ -12,8 +12,14 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-numpy = "^1.21"  # Add other dependencies as needed
+python = "^3.8"  # Specify the Python version you're using
+numpy = "^1.21"   # Update to the version you're using
+pymatgen = "^2024.8.9"  # Update to the version you need
+ase = "^3.21"     # Update to the version you need
+sympy = "^1.10"   # Update to the version you need
+pandas = "^1.3"   # Update to the version you need
+numba = "^0.54"   # Update to the version you need
+tqdm = "^4.62"    # Update to the version you need
 
 [tool.poetry.scripts]
 superhex = "superhex.superhex:main"  # Entry point if applicable
