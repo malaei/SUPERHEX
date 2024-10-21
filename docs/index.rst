@@ -1,20 +1,12 @@
-.. automodule:: 
-   :members:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-Welcome to Superhex's documentation!
+Welcome to SUPERHEX's documentation!
 ====================================
 
-This is the main entry point of the Superhex documentation.
+SUPERHEX is a code for optimizing supercell structures for Heisenberg exchange calculations.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   introduction
    installation
    usage
-
+   api
