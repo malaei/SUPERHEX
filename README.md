@@ -5,7 +5,9 @@ Supercell Optimization for Heisenberg Exchange Calculations
 ## Installation
 
 ```bash
-$ pip install superhex
+$ git clone https://github.com/malaei/SUPERHEX.git
+$ cd SUPERHEX
+$ pip install .
 ```
 
 ## Usage
