@@ -1,16 +1,10 @@
-# Configuration file for the Sphinx documentation builder.
-
-# Project information
 project = 'Superhex'
 author = 'Mojtaba Alaei'
-release = '0.1'
+release = '1.0.0'
 
-# General configuration
-extensions = []
+extensions = ['sphinx.ext.autodoc']  # Enables automatic code documentation
 templates_path = ['_templates']
 exclude_patterns = []
 
-# Options for HTML output
-html_theme = 'alabaster'
+html_theme = 'alabaster'  # Or another theme of your choice
 html_static_path = ['_static']
-
