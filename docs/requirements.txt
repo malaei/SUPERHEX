@@ -1,3 +1,7 @@
 myst-nb
 sphinx-autoapi
 sphinx-rtd-theme
+numpy
+sympy
+pandas
+pymatgen
