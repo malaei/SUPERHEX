@@ -8,6 +8,5 @@ exclude_patterns = []
 
 #html_theme = 'alabaster'  # Or another theme of your choice
 html_theme = 'sphinx_rtd_theme'
-html_static_path = ['_static']
-
+#html_static_path = ['_static']
 
