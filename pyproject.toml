@@ -20,8 +20,6 @@ sympy = "^1.12"   # Update to the version you need
 pandas = "^2.2"   # Update to the version you need
 numba = "^0.59"   # Update to the version you need
 tqdm = "^4.66"    # Update to the version you need
-myst_nb = "^1.1"
-autoapi = "^2.0"
 
 [tool.poetry.scripts]
 superhex = "superhex.superhex:main"  # Entry point if applicable
