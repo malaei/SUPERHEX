@@ -1,5 +1,5 @@
-Welcome to SUPERHEX's documentation!
-====================================
+.. Welcome to SUPERHEX's documentation!
+.. ====================================
 
 SUPERHEX is a code for optimizing supercell structures for Heisenberg exchange calculations.
 
