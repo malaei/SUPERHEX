@@ -10,3 +10,4 @@ SUPERHEX is a code for optimizing supercell structures for Heisenberg exchange c
    installation
    usage
    api
+   tutorial
