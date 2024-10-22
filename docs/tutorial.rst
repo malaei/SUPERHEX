@@ -41,6 +41,21 @@ To view the contents of the `input.txt` file:
 
     $ cat input.txt
 
+.. code-block:: json
+   {
+   "structure_file": "MnTe.vasp",
+   "LatDim": 3, 
+   "range_volume" : true, 
+   "volumes" : [1, 12],
+   "magnetic_atoms" : ["Mn"],
+   "cutoff_radius" : 25,
+   "n_configs" : 100,
+   "all_configs" : false, 
+   "verbosity" : "high",
+   "seed" : 42, 
+   "num_processes" : 4
+   }
+
 (Refer to the User Guide section for a detailed explanation of the parameters in this file.)
 
 Step 4: Run the superhex program
@@ -57,5 +72,4 @@ After the run, the following output files will be generated:
 - `log.txt`
 - `struct_analysis.csv`
 - `supercells` directory containing the generated supercells.
-
 

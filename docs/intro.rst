@@ -8,7 +8,6 @@ Using a supercell with various magnetic configurations allows us to map *ab init
 .. image:: DFT_to_Hei.svg 
    :alt: Mapping of DFT to Heisenberg Hamiltonian
    :align: center
-   :style: transform: rotate(90deg);
 
 However, due to periodic boundary conditions, these results are limited to specific nearest neighbors. To push this limit and consider more interactions, larger supercells are needed, though this comes with increased computational costs.
 
