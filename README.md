@@ -5,6 +5,12 @@ Supercell Optimization for Heisenberg Exchange Calculations
 If you are using this software, please cite
 > Mojtaba Alaei, Artem R. Oganov, Optimizing Supercell Structures for Heisenberg Exchange Interaction Calculations [arXiv:2410.14356](https://arxiv.org/abs/2410.14356)
 
+[![Documentation Status](https://readthedocs.org/projects/superhex/badge/?version=latest)](https://superhex.readthedocs.io/en/latest/)
+
+## Documentation
+
+You can find the full documentation for this project at [Read the Docs](https://superhex.readthedocs.io/en/latest/).
+
 ## Installation
 
 ```bash
