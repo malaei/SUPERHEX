@@ -59,7 +59,8 @@ Here’s an example of what the `input.txt` file might look like:
        "num_processes": 4
    }
 
-(Refer to the User Guide section for a detailed explanation of the parameters in this file.)
+For more details on the input file format, refer to the :ref:`input_format`.
+
 
 Step 4: Run the superhex Program
 ----------------------------------

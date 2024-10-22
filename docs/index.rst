@@ -8,8 +8,8 @@ SUPERHEX is a code for optimizing supercell structures for Heisenberg exchange c
    :caption: Contents:
 
    installation
-   input_format
    intro
+   tutorial
+   input_format
    usage
    api
-   tutorial
