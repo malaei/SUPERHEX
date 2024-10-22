@@ -3,7 +3,7 @@
 Input File Format
 =================
 
-This section explains the required format for the `input.txt` file used by `superhex`. The input file is in JSON format and contains various parameters that control the behavior of the program. Below is an example input file:
+This section describes the required format of the `input.txt` file used by `superhex`. The file is written in JSON format and includes various parameters that control how the program operates. Below is an example of the input file:
 
 .. code-block:: json
 
@@ -21,28 +21,27 @@ This section explains the required format for the `input.txt` file used by `supe
        "num_processes": 4
    }
 
-Explanation of Parameters
--------------------------
+Parameter Descriptions
+----------------------
 
-- **structure_file**: The path to the structure file, which can be in VASP, CIF, or other compatible formats. In this example, it is `MnTe.vasp`.
-  
-- **LatDim**: The lattice dimensionality, which specifies the number of dimensions in the lattice. For a 3D structure, use `LatDim: 3`.
+- **structure_file**: The path to the structure file, which can be in VASP, CIF, or other supported formats. In this case, it is `MnTe.vasp`.
 
-- **range_volume**: A boolean value (`true` or `false`) that determines whether to search over a range of supercell volumes. If `true`, the program will consider the range of volumes specified in the `volumes` parameter.
+- **LatDim**: The lattice dimensionality, specifying the number of dimensions in the structure. For a 3D structure, set `LatDim: 3`.
 
-- **volumes**: An array that specifies the range of supercell volumes to consider. In this example, the volumes range from `1` to `12`.
+- **range_volume**: A boolean (`true` or `false`) that specifies whether to search over a range of supercell volumes. If `true`, the program will consider volumes within the range defined by the `volumes` parameter.
 
-- **magnetic_atoms**: A list of atoms in the structure that have magnetic properties. In this example, only `Mn` is considered a magnetic atom.
+- **volumes**: An array specifying the range of supercell volumes to evaluate. In this example, the program will consider volumes from `1` to `12`.
 
-- **cutoff_radius**: The maximum cutoff radius in angstroms for considering exchange interactions. In this case, a value of `25` angstroms is used.
+- **magnetic_atoms**: A list of atoms in the structure that have magnetic moments. Here, `Mn` is the only magnetic atom considered.
 
-- **n_configs**: The number of random configurations to generate. In this example, the program will generate `100` configurations.
+- **cutoff_radius**: The maximum distance (in angstroms) for considering exchange interactions. In this example, the cutoff is set to `25` angstroms.
 
-- **all_configs**: A boolean value that specifies whether to generate all possible configurations (`true`) or limit the number of configurations to `n_configs` (`false`).
+- **n_configs**: The number of random magnetic configurations to generate. In this case, the program will generate `100` configurations.
 
-- **verbosity**: Specifies the level of detail in the output. Options include `"low"`, `"medium"`, and `"high"`. In this case, `"high"` provides the most detailed output.
+- **all_configs**: A boolean value that determines whether to generate all possible configurations (`true`) or limit them to `n_configs` (`false`). For large systems, setting this to `false` is recommended.
 
-- **seed**: The random seed value for generating configurations. Using the same seed ensures that the results are reproducible. In this case, the seed is `42`.
+- **verbosity**: Specifies the level of detail in the output. The options are `"low"`, `"medium"`, and `"high"`. In this example, `"high"` will provide the most detailed output.
 
-- **num_processes**: The number of parallel processes to use for computation. Here, `4` processes will be used.
+- **seed**: The seed for random number generation, ensuring reproducibility. Here, the seed is set to `42`.
 
+- **num_processes**: The number of CPU processes to use for parallel computation. In this example, `4` processes will be used.
