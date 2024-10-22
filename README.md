@@ -1,6 +1,10 @@
 # superhex
 
-**Super**cell Optimization for **H**eisenberg **Ex**change Calculations (**SUPERHEX**)
+**Super**cell Optimization for **H**eisenberg **Ex**change Calculations (**SUPERHEX**) 
+is a code designed to generate the smallest possible supercell structures for mapping ab initio results (such as DFT) 
+to the Heisenberg Hamiltonian, facilitating the derivation of exchange interactions.
+
+
 
 If you are using this software, please cite
 > Mojtaba Alaei, Artem R. Oganov, Optimizing Supercell Structures for Heisenberg Exchange Interaction Calculations [arXiv:2410.14356](https://arxiv.org/abs/2410.14356)
