@@ -1,6 +1,6 @@
 # superhex
 
-Supercell Optimization for Heisenberg Exchange Calculations
+**Super**cell Optimization for **H**eisenberg **Ex**change Calculations (**SUPERHEX**)
 
 If you are using this software, please cite
 > Mojtaba Alaei, Artem R. Oganov, Optimizing Supercell Structures for Heisenberg Exchange Interaction Calculations [arXiv:2410.14356](https://arxiv.org/abs/2410.14356)
