@@ -1,4 +1,4 @@
-# superhex
+# SUPERHEX
 
 **Super**cell Optimization for **H**eisenberg **Ex**change Calculations (**SUPERHEX**) 
 is a code designed to generate the smallest possible supercell structures for mapping ab initio results (such as DFT) 
