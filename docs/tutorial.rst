@@ -141,14 +141,14 @@ For this example, the first 30 lines of ``struct_analysis.csv`` are shown below:
 
 You can use the `plot_analysis.py` script in the `src/tools` directory to visualize the data from `struct_analysis.csv`:
 
-```bash
-$ python plot_analysis.py
-```
+.. code-block:: bash
+   python plot_analysis.py
+
+.. image:: js_vs_vol.svg  
+   :alt: Allowed exchange interactions for supercell structures  
+   :align: center
 
 The resulting plot shows the allowed exchange interactions for supercell structures with sizes ranging from 1 to 12. The x-axis represents the supercell sizes, while the y-axis indicates the number of permitted exchange interactions for each structure.
 
 Each supercell size includes several distinct structures. For example, at supercell size 8, there are 34 unique supercell structures. The size of the circles in the plot reflects the number of structures that allow the calculation of a specific number of exchange interactions.
 
-.. image:: js_vs_vol.svg  
-   :alt: Allowed exchange interactions for supercell structures  
-   :align: center
