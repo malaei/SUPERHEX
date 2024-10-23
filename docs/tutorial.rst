@@ -77,18 +77,20 @@ After the run, the following output files will be generated:
 - `struct_analysis.csv`
 - A `supercells` directory containing the generated supercells.
 
+Here’s a refined version of the text for `tutorial.rst`:
 
-The program indexes each supercell structure by cell volume (size). For each supercell volume, the corresponding structures are further indexed by a number. Inside the ``supercells`` directory, the files are named as follows: ``cell-volm-numn.vasp``.
+---
 
-- ``m`` denotes the supercell volume (size), and
-- ``n`` denotes the structure index.
+The program indexes each supercell structure by cell volume (denoted as ``m``). For each supercell volume, multiple distinct structures can be generated. These structures are indexed by ``n``, starting from 0 and incrementing to the total number of unique structures for that specific supercell volume. 
 
-For each supercell size, multiple distinct structures can be generated, with ``n`` starting from 0 and increasing to the maximum number of unique structures for that particular supercell volume.
+Within the ``supercells`` directory, the files are named as: ``cell-volm-numn.vasp``, where:
+- ``m`` represents the supercell volume, and
+- ``n`` is the structure index.
 
-The ``log.txt`` file contains information about matrix transformations for each supercell structure. The relevant details are labeled with:
+The ``log.txt`` file contains information about the matrix transformations applied to each supercell structure. The details are labeled in the following format:
+```
 -----volume: m Structure number: n-----
+```
 
-
-
-where ``m`` is the supercell volume and ``n`` is the structure index.
+Here, ``m`` indicates the supercell volume, and ``n`` refers to the structure index.
 
