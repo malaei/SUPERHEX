@@ -98,7 +98,7 @@ For this example, the first 30 lines of ``struct_analysis.csv`` are shown below:
 
 .. csv-table:: Supercell Structures Data
    :header: "struct_vol", "struct_num", "first_dep_col_ind", "permitted_farthest_J", "rank", "independent_configs", "latt_abc_var"
-   :widths: auto
+   :widths: 10, 10, 20, 25, 10, 20, 20
 
    12,27,14,J13,14,100.0,5.48660820765528
    12,30,14,J13,14,100.0,8.561867272534236
