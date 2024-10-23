@@ -151,9 +151,8 @@ You can use the ``plot_analysis.py`` script in the ``src/tools`` directory to vi
 The resulting plot shows the allowed exchange interactions for supercell structures with sizes ranging from 1 to 12. The x-axis represents the supercell sizes, while the y-axis indicates the number of permitted exchange interactions for each structure.
 Each supercell size includes several distinct structures. For example, at supercell size 8, there are 34 unique supercell structures. The size of the circles in the plot reflects the number of structures that allow the calculation of a specific number of exchange interactions.
 
-Here's a refined version of the text:
 
-"According to the plot, if we want to calculate exchange interactions up to the 7th nearest neighbor (i.e., \( J_1, J_2, \dots, J_7 \)), we can use a supercell of size 8. There are several distinct structures of size 8 that allow the calculation of exchanges up to \( J_7 \).
+According to the plot, if we want to calculate exchange interactions up to the 7th nearest neighbor (i.e., \( J_1, J_2, \dots, J_7 \)), we can use a supercell of size 8. There are several distinct structures of size 8 that allow the calculation of exchanges up to \( J_7 \).
 
 To find the options, we can use the `grep` command in bash:
 
@@ -168,7 +167,8 @@ The first few lines of the result are as follows:
 8,8,8,J7,9,96.0,8.996710197481613
 8,19,8,J7,9,96.0,21.242606279366886
 8,7,8,J7,9,95.0,5.090066954230983
-...
 ```
 
-This shows that we can choose, for example, `cell-vol8-num2.vasp` from the `supercells` directory for calculating exchange interactions up to \( J_7 \)."
+
+
+This shows that we can choose, for example, `cell-vol8-num2.vasp` from the `supercells` directory for calculating exchange interactions up to \( J_7 \).
