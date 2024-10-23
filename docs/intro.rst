@@ -44,7 +44,7 @@ When we map *ab initio* results of various magnetic configurations, we obtain th
     \end{pmatrix}
 
 Using null space analysis of matrix :math:`\mathbb{A}`, we can identify the first dependent column (e.g., :math:`1 + q`), indicating that exchange interactions can be calculated up to the :math:`q`-th nearest neighbor.
-
+By generating all possible supercell structures within a range of volumes and applying null space analysis, we can identify the smallest supercell structures that capture the maximum number of exchange interactions. Using these optimal structures can significantly accelerate ab initio calculations for exchange interactions, potentially speeding them up by 1 to 2 orders of magnitude.
 
 For more information on this technique, please refer to:
 
