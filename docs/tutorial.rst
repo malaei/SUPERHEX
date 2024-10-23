@@ -142,6 +142,7 @@ For this example, the first 30 lines of ``struct_analysis.csv`` are shown below:
 You can use the ``plot_analysis.py`` script in the ``src/tools`` directory to visualize the data from ``struct_analysis.csv``:
 
 .. code-block:: bash
+
    python plot_analysis.py
 
 .. image:: js_vs_vol.svg  
@@ -157,18 +158,17 @@ According to the plot, if we want to calculate exchange interactions up to the 7
 To find the options, we can use the `grep` command in bash:
 
 .. code-block:: bash
+
    grep J7 struct_analysis.csv
 
 The first few lines of the result are as follows:
 
-```
-8,2,8,J7,9,98.0,22.485831549654435
-8,13,8,J7,9,97.0,5.090066901962643
-8,8,8,J7,9,96.0,8.996710197481613
-8,19,8,J7,9,96.0,21.242606279366886
-8,7,8,J7,9,95.0,5.090066954230983
-```
-
+.. code-block:: bash
+   8,2,8,J7,9,98.0,22.485831549654435
+   8,13,8,J7,9,97.0,5.090066901962643
+   8,8,8,J7,9,96.0,8.996710197481613
+   8,19,8,J7,9,96.0,21.242606279366886
+   8,7,8,J7,9,95.0,5.090066954230983
 
 
 This shows that we can choose, for example, `cell-vol8-num2.vasp` from the `supercells` directory for calculating exchange interactions up to \( J_7 \).
