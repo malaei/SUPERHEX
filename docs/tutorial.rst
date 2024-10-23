@@ -155,7 +155,7 @@ Each supercell size includes several distinct structures. For example, at superc
 
 According to the plot, if we want to calculate exchange interactions up to the 7th nearest neighbor (i.e., \( J_1, J_2, \dots, J_7 \)), we can use a supercell of size 8. There are several distinct structures of size 8 that allow the calculation of exchanges up to \( J_7 \).
 
-To find the options, we can use the `grep` command in bash:
+To find the options, we can use the ``grep`` command in bash:
 
 .. code-block:: bash
 
@@ -164,6 +164,7 @@ To find the options, we can use the `grep` command in bash:
 The first few lines of the result are as follows:
 
 .. code-block:: bash
+
    8,2,8,J7,9,98.0,22.485831549654435
    8,13,8,J7,9,97.0,5.090066901962643
    8,8,8,J7,9,96.0,8.996710197481613
@@ -171,4 +172,4 @@ The first few lines of the result are as follows:
    8,7,8,J7,9,95.0,5.090066954230983
 
 
-This shows that we can choose, for example, `cell-vol8-num2.vasp` from the `supercells` directory for calculating exchange interactions up to \( J_7 \).
+This shows that we can choose, for example, ``cell-vol8-num2.vasp`` from the ``supercells`` directory for calculating exchange interactions up to \( J_7 \).
