@@ -13,36 +13,6 @@ However, due to periodic boundary conditions, these results are limited to speci
 
 Typically, researchers generate supercells by multiplying lattice vectors by integers. However, this method can lead to very time-consuming *ab initio* calculations. In contrast, SUPERHEX generates all possible supercell structures, analyzes the coefficient matrix obtained from the Heisenberg Hamiltonian, and then identifies the optimal supercell structure. This approach helps find the smallest supercell required for a given number of exchange interactions, potentially speeding up DFT calculations by 1 to 2 orders of magnitude.
 
-When we map ab initio results of different magnetic configuration, we reach to the following matrix equation ($\mathbb{A} \mathbb{J}= \mathbb{E}$:
-\begin{align}
-\begin{pmatrix}
-1 & \alpha_{1,1} & \alpha_{1,2} & \cdots & \alpha_{1,m} \\
-1 & \alpha_{2,1} & \alpha_{2,2} & \cdots & \alpha_{2,m} \\
-1 & \alpha_{3,1} & \alpha_{3,2} & \cdots & \alpha_{3,m} \\
-\vdots & \vdots & \vdots & \ddots & \vdots \\
-1 & \alpha_{n,1} & \alpha_{n,2} & \cdots & \alpha_{n,m}
-\end{pmatrix}
-&
-\begin{pmatrix}
-c_0 \\
-J_1 \\
-J_2 \\
-\vdots \\
-J_{m}
-\end{pmatrix}
-        &=&
-\begin{pmatrix}
-E_1 \\
-E_2 \\
-E_3 \\
-\vdots \\
-E_n
-\end{pmatrix}
-\end{align}
-
-Using null space analysis of matrix $\mathbb{A}$, we can find first depenedent column in the matrix (e.g. $1+q$) which tells us
-we can calcualte exchange up $q$ th nearst neighobr.
-
 
 When we map *ab initio* results of various magnetic configurations, we obtain the following matrix equation:
 
