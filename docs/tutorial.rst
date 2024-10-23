@@ -137,3 +137,9 @@ For this example, the first 30 lines of ``struct_analysis.csv`` are shown below:
 - The fifth column represents the rank of matrix :math:`\mathbb{A}`.
 - The sixth column shows the percentage of independent magnetic configurations generated from random configurations.
 - The final column indicates the variation in lattice vectors.
+
+
+.. image:: js_vs_vol.svg
+   :alt: Allowed exchange interactions for supercell structures
+   :align: center
+
