@@ -158,7 +158,7 @@ Here's a refined version of the text:
 To find the options, we can use the `grep` command in bash:
 
 .. code-block:: bash
-   grep 'J7' struct_analysis.csv
+   grep J7 struct_analysis.csv
 
 The first few lines of the result are as follows:
 
