@@ -93,7 +93,10 @@ The ``log.txt`` file contains information about the matrix transformations appli
 Here, ``m`` indicates the supercell volume, and ``n`` refers to the structure index.
 
 
-.. csv-table:: Supercell Structure Data
+The file ``struct_analysis.csv`` contains all the necessary information for selecting an appropriate supercell for exchange calculations.
+For this example, the first 30 lines of ``struct_analysis.csv`` are shown below:
+
+.. csv-table:: Supercell Structures Data
    :header: "struct_vol", "struct_num", "first_dep_col_ind", "permitted_farthest_J", "rank", "independent_configs", "latt_abc_var"
 
    12,27,14,J13,14,100.0,5.48660820765528
@@ -126,3 +129,10 @@ Here, ``m`` indicates the supercell volume, and ``n`` refers to the structure in
    11,14,10,J9,12,100.0,10.79158684628348
    12,41,10,J9,10,100.0,4.629240441738239
 
+- The first column represents the supercell size (or volume), denoted as ``m``.
+- The second column indicates the structure number within this volume, denoted as ``n``.
+- The third column shows the index of the first dependent column of matrix :math:`\mathbb{A}`, introduced in the :doc:`intro <intro>`.
+- The fourth column specifies the farthest permitted Heisenberg exchange interaction that can be calculated for the structure with volume ``m`` and structure index ``n``.
+- The fifth column represents the rank of matrix :math:`\mathbb{A}`.
+- The sixth column shows the percentage of independent magnetic configurations generated from random configurations.
+- The final column indicates the variation in lattice vectors.
