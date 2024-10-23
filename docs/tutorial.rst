@@ -131,7 +131,7 @@ For this example, the first 30 lines of ``struct_analysis.csv`` are shown below:
 
 - The first column represents the supercell size (or volume), denoted as ``m``.
 - The second column indicates the structure number within this volume, denoted as ``n``.
-- The third column shows the index of the first dependent column of matrix :math:`\mathbb{A}`, introduced in the :doc:`intro <intro>`.
+- The third column shows the index of the first dependent column of matrix :math:`\mathbb{A}`, introduced in the :doc:`introduction <intro>`.
 - The fourth column specifies the farthest permitted Heisenberg exchange interaction that can be calculated for the structure with volume ``m`` and structure index ``n``.
 - The fifth column represents the rank of matrix :math:`\mathbb{A}`.
 - The sixth column shows the percentage of independent magnetic configurations generated from random configurations.
