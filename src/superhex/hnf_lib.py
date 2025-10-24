@@ -74,8 +74,8 @@ def get_all_2D_HNFs(volume):
     for i in range(N):  # Loop over the permutations of the diagonal elements of the HFNs
         for j in range(d[2, i]):  # Loop over possible values of row 2, element 1
             hnf[ihnf,:, :] = np.array([
-                [d[2, i], 0, 0],
-                [0, d[1, i], j],
+                [d[2, i], j, 0],
+                [0, d[1, i], 0],
                 [0, 0, d[0, i]]
             ]).T
             ihnf += 1  # Count the HNFs and construct the next one
