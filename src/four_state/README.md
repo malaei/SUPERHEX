@@ -39,6 +39,19 @@ All parameters may also be supplied through an external YAML-style input file
 python find-cell.py -i params-find.in
 ``` 
 
+### Output of the Program
+`all_valid_neighbors.csv` contains the list of allowed exchange interactions for each supercell.  
+Each row has the format, for example:
+
+```bash
+15,30,J1
+16,54,J1,J3,J4
+```
+- The **first number** is the supercell volume index (following SUPERHEX indexing).  
+- The **second number** is the structure index within that volume (also using SUPERHEX indexing).  
+- The remaining entries (e.g., `J1`, `J3`, `J4`) list the **exchange interactions that can be computed** for that particular supercell structure.
+
+
 ---
 
 ### 2. `pairs.py`
