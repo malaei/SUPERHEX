@@ -41,14 +41,25 @@ python find-cell.py -i params-find.in
 
 ### 2. `pairs.py`
 
-This analysis tools analysis a given supercell and repots pairs that can be selected for calcualting  exchange interaction using four-state method.
+This analysis tool examines a given supercell and identifies all atom pairs that can be used to compute exchange interactions via the four-state method.
 
-The program can be run in two ways:
--given data information through command line. To see which parameters should be give to program, use help option:
-```text
+---
+
+## Running the Program
+
+The program can be executed in two ways:
+
+### 1. Providing parameters via the command line
+Use the help option to see all available arguments and required inputs:
+
+```bash
 python pairs.py -h
 ```
--The hollow parameters can be given inside an YAML input file:
-```text
+
+### 2. Providing parameters through a YAML input file
+
+You can also supply all parameters inside an external YAML-style input file (e.g., `params.in`):
+
+```bash
 python pairs.py -i params.in
 ```
