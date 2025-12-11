@@ -8,6 +8,7 @@ to the Heisenberg Hamiltonian, facilitating the derivation of exchange interacti
 
 If you are using this software, please cite
 > Mojtaba Alaei, Artem R. Oganov, Optimizing Supercell Structures for Heisenberg Exchange Interaction Calculations [Phys. Rev. B 111, 144419](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.144419)
+> Nafise Rezaei, Artem R. Oganov, Ali Ghojavand, Milorad V. Milošević, and Mojtaba Alaei, Benchmarking First-Principles Approaches for Extracting Magnetic Exchange Interactions[arXiv:2512.08471](https://arxiv.org/abs/2512.08471)
 
 [![Documentation Status](https://readthedocs.org/projects/superhex/badge/?version=latest)](https://superhex.readthedocs.io/en/latest/)
 

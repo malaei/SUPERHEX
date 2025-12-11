@@ -1,0 +1,7 @@
+struct_analysis= ../../tests/bulk_examples/NiO_primitive/struct_analysis.csv
+supercells_dir= ../../tests/bulk_examples/NiO_primitive/supercells/
+mag_atoms: Ni
+num_neigh: 4
+nproc= 4
+dis_cut= 12.0
+dis_tol= 0.0005

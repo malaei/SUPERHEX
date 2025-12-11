@@ -1,0 +1,7 @@
+struct_file = ../../tests/bulk_examples/NiO_primitive/supercells/cell-vol16-num57.vasp 
+mag_atoms = Ni
+num_neigh = 4
+dis_cut = 10.0 , dis_tol = 0.01  
+image_range = 4
+check_env_fp= true  
+max_neigh = 6

@@ -1,0 +1,14 @@
+{
+"structure_file": "NiO.vasp",
+"LatDim": 3, 
+"range_volume" : true, 
+"volumes" : [1, 16],
+"magnetic_atoms" : ["Ni"],
+"cutoff_radius" : 25,
+"n_configs" : 100,
+"all_configs" : false, 
+"verbosity" : "high", 
+"seed"      : 42,
+"num_processes" : 4
+}
+

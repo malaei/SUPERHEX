@@ -1,0 +1,72 @@
+Structure File: ../../tests/bulk_examples/NiO_primitive/supercells/cell-vol16-num57.vasp
+
+Valid_Neighbors: J1, J2, J3, J4
+
+
+Distance: 2.950 (J1)
+Environment 1:  env_fp: ((('O', 1.48, 45.0), 2), (('O', 2.09, 18.4), 4), (('O', 2.09, 35.3), 4), (('Ni', 2.56, 60.0), 4), (('Ni', 2.95, 0.0), 2), (('Ni', 2.95, 30.0), 8), (('Ni', 2.95, 45.0), 4), (('O', 3.62, 19.5), 4), (('O', 3.62, 50.8), 8), (('Ni', 4.18, 26.6), 4), (('Ni', 4.18, 54.7), 4))
+atom1: 1, atom2: 9, count: 4, Environment 1
+atom1: 1, atom2: 3, count: 4, Environment 1
+atom1: 2, atom2: 10, count: 4, Environment 1
+atom1: 2, atom2: 4, count: 4, Environment 1
+atom1: 3, atom2: 11, count: 4, Environment 1
+atom1: 4, atom2: 12, count: 4, Environment 1
+atom1: 5, atom2: 13, count: 4, Environment 1
+atom1: 5, atom2: 7, count: 4, Environment 1
+atom1: 6, atom2: 14, count: 4, Environment 1
+atom1: 6, atom2: 8, count: 4, Environment 1
+atom1: 7, atom2: 15, count: 4, Environment 1
+atom1: 8, atom2: 16, count: 4, Environment 1
+atom1: 9, atom2: 11, count: 4, Environment 1
+atom1: 10, atom2: 12, count: 4, Environment 1
+atom1: 13, atom2: 15, count: 4, Environment 1
+atom1: 14, atom2: 16, count: 4, Environment 1
+
+Distance: 4.180 (J2)
+Environment 1:  env_fp: ((('O', 0.0, 0.0), 1), (('Ni', 2.09, 45.0), 4), (('O', 2.09, 0.0), 2), (('O', 2.09, 26.6), 8), (('Ni', 2.95, 18.4), 8), (('Ni', 2.95, 35.3), 8), (('O', 2.95, 54.7), 4), (('O', 3.62, 25.2), 8), (('Ni', 4.18, 0.0), 2), (('Ni', 4.18, 45.0), 8), (('O', 4.18, 63.4), 4), (('Ni', 4.67, 65.9), 8), (('O', 4.67, 14.0), 8), (('O', 4.67, 33.7), 8), (('O', 4.67, 48.2), 16))
+atom1: 1, atom2: 11, count: 8, Environment 1
+atom1: 1, atom2: 5, count: 4, Environment 1
+atom1: 2, atom2: 12, count: 8, Environment 1
+atom1: 2, atom2: 6, count: 4, Environment 1
+atom1: 3, atom2: 9, count: 8, Environment 1
+atom1: 3, atom2: 7, count: 4, Environment 1
+atom1: 4, atom2: 10, count: 8, Environment 1
+atom1: 4, atom2: 8, count: 4, Environment 1
+atom1: 5, atom2: 15, count: 8, Environment 1
+atom1: 6, atom2: 16, count: 8, Environment 1
+atom1: 7, atom2: 13, count: 8, Environment 1
+atom1: 8, atom2: 14, count: 8, Environment 1
+atom1: 9, atom2: 13, count: 4, Environment 1
+atom1: 10, atom2: 14, count: 4, Environment 1
+atom1: 11, atom2: 15, count: 4, Environment 1
+atom1: 12, atom2: 16, count: 4, Environment 1
+
+Distance: 5.110 (J3)
+Environment 1:  env_fp: ((('O', 1.21, 19.5), 2), (('Ni', 1.48, 30.0), 2), (('O', 1.91, 24.1), 4), (('O', 2.09, 10.0), 2), (('O', 2.09, 17.7), 4), (('Ni', 2.41, 35.3), 2), (('Ni', 2.83, 33.6), 4))
+atom1: 1, atom2: 13, count: 8, Environment 1
+atom1: 1, atom2: 7, count: 8, Environment 1
+atom1: 2, atom2: 14, count: 8, Environment 1
+atom1: 2, atom2: 8, count: 8, Environment 1
+atom1: 3, atom2: 15, count: 8, Environment 1
+atom1: 3, atom2: 5, count: 8, Environment 1
+atom1: 4, atom2: 16, count: 8, Environment 1
+atom1: 4, atom2: 6, count: 8, Environment 1
+atom1: 5, atom2: 9, count: 8, Environment 1
+atom1: 6, atom2: 10, count: 8, Environment 1
+atom1: 7, atom2: 11, count: 8, Environment 1
+atom1: 8, atom2: 12, count: 8, Environment 1
+atom1: 9, atom2: 15, count: 8, Environment 1
+atom1: 10, atom2: 16, count: 8, Environment 1
+atom1: 11, atom2: 13, count: 8, Environment 1
+atom1: 12, atom2: 14, count: 8, Environment 1
+
+Distance: 5.900 (J4)
+Environment 1:  env_fp: ((('Ni', 0.0, 0.0), 1), (('O', 1.48, 18.4), 4), (('O', 2.09, 11.3), 4), (('O', 2.09, 19.5), 4), (('O', 2.09, 35.3), 2), (('Ni', 2.56, 30.0), 8), (('Ni', 2.95, 0.0), 2), (('Ni', 2.95, 19.1), 8), (('Ni', 2.95, 26.6), 4), (('Ni', 2.95, 45.0), 2), (('O', 3.62, 13.3), 4), (('O', 3.62, 31.5), 8), (('O', 3.62, 50.8), 4))
+atom1: 1, atom2: 15, count: 16, Environment 1
+atom1: 2, atom2: 16, count: 16, Environment 1
+atom1: 3, atom2: 13, count: 16, Environment 1
+atom1: 4, atom2: 14, count: 16, Environment 1
+atom1: 5, atom2: 11, count: 16, Environment 1
+atom1: 6, atom2: 12, count: 16, Environment 1
+atom1: 7, atom2: 9, count: 16, Environment 1
+atom1: 8, atom2: 10, count: 16, Environment 1
