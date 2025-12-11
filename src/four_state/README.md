@@ -18,20 +18,37 @@ SUPERHEX → generate supercells → run find-cell.py → output valid exchange 
                                                             |
                                                             → all_valid_neighbors.csv
                          
-
 ```
+## Running the Program
 
-#### Usage
+The program can be executed in two ways:
 
-```text
+### 1. Providing parameters via the command line
+You can specify all required options directly in the terminal.  
+To see the list of available parameters and usage instructions, use:
+
+```bash
 python find-cell.py -h
-
-or 
-
-python find-cell.py -i params-find.in 
 ```
 
+### 2. Providing parameters through a YAML input file
+All parameters may also be supplied through an external YAML-style input file
+(e.g., `params-find.in`). This is useful for reproducibility or longer sets of options.
+
+```bash
+python find-cell.py -i params-find.in
+``` 
 
 ### 2. `pairs.py`
 
-This analysis tools  
+This analysis tools analysis a given supercell and repots pairs that can be selected for calcualting  exchange interaction using four-state method.
+
+The program can be run in two ways:
+-given data information through command line. To see which parameters should be give to program, use help option:
+```text
+python pairs.py -h
+```
+-The hollow parameters can be given inside an YAML input file:
+```text
+python pairs.py -i params.in
+```
