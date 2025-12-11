@@ -39,11 +39,12 @@ All parameters may also be supplied through an external YAML-style input file
 python find-cell.py -i params-find.in
 ``` 
 
+---
+
 ### 2. `pairs.py`
 
 This analysis tool examines a given supercell and identifies all atom pairs that can be used to compute exchange interactions via the four-state method.
 
----
 
 ## Running the Program
 
