@@ -15,17 +15,19 @@ This analysis tool helps determine which exchange interactions can be computed f
 
 ```text
 SUPERHEX → generate supercells → run find-cell.py → output valid exchange pairs
-                        |                                   |
-                        |                                   → all_valid_neighbors.csv
-                        |
-                        → (optional) other analysis utilities
+                                                            |
+                                                            → all_valid_neighbors.csv
+                         
 
+```
 
 #### Usage
+
+```text
 python find-cell.py -h
 
 or 
 
 python find-cell.py -i params-find.in 
----
+```
 
